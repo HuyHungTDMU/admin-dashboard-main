@@ -1,0 +1,16 @@
+export { default as SentIcon } from './SentIcon';
+export { default as PasswordIcon } from './PasswordIcon';
+export { default as PlanFreeIcon } from './PlanFreeIcon';
+export { default as EmailInboxIcon } from './EmailInboxIcon';
+export { default as PlanStarterIcon } from './PlanStarterIcon';
+export { default as PlanPremiumIcon } from './PlanPremiumIcon';
+export { default as PreviewOnMobileIcon } from './PreviewOnMobileIcon';
+export { default as CourseTypeIcon } from './CourseTypeIcon';
+export { default as TotalQuestionIcon } from './TotalQuestionIcon';
+export { default as CoinIcon } from './CoinIcon';
+export { default as DownloadAppStoreIcon } from './DownloadAppStoreIcon';
+export { default as DownloadGooglePlayIcon } from './DownloadGooglePlayIcon';
+export { default as ExportIcon } from './ExportIcon';
+export { default as MessageIcon } from './MessageIcon';
+export { default as MessageNotifIcon } from './MessageNotifIcon';
+export { default as LoadingIcon } from './LoadingIcon';
